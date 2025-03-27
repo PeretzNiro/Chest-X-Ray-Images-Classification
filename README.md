@@ -51,7 +51,17 @@ Before running the code, ensure you have downloaded the dataset and placed it in
 3. Download the dataset and place it in the specified directory.
 
 ### Running the Code
-Open the Jupyter Notebook file (`Chest_X_Ray_Medical_Images_Classification.ipynb`) and execute the code cells.
+Open the Jupyter Notebook file (`Chest_X_Ray_Medical_Images_Classification.ipynb`) and execute the code cells, paying attention to the following:
+
+1. **Dataset Selection**: 
+   - If using the original dataset: You should use the class-weight adjustment approach to handle class imbalance
+   - If using the augmented dataset: The data augmentation code will generate additional images to balance the classes
+
+2. **Code Sections**:
+   - For data augmentation: Run the cell containing `ImageDataGenerator` code if you want to balance classes by generating additional images
+   - For class weights: Use this approach only with the original unbalanced dataset
+
+Make sure to update file paths in the notebook to match your local environment before running.
 
 ## Results
 The model demonstrates strong performance in pneumonia detection with the following metrics:
