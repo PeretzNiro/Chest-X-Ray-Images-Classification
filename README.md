@@ -12,9 +12,7 @@ This project implements a convolutional neural network based on MobileNet archit
 The project aims to demonstrate the effectiveness of deep learning in medical image analysis and its potential to assist healthcare professionals in diagnosing pneumonia accurately and efficiently.
 
 ## Dataset
-To reproduce the experiments conducted in this project, you need to download the Chest X-ray dataset from the following link:
-
-[Mendeley](https://data.mendeley.com/datasets/rscbjbr9sj/2).
+To reproduce the experiments conducted in this project, you need to download the Chest X-ray dataset from the following link: [Mendeley](https://data.mendeley.com/datasets/rscbjbr9sj/2).
 
 After downloading, follow these steps:
 
