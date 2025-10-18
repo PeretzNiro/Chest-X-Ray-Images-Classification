@@ -5,6 +5,9 @@ AI-powered diagnostic tool using deep learning to automatically detect pneumonia
 [![Python](https://img.shields.io/badge/Python-3.6%2B-blue)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0%2B-orange)](https://www.tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-2.4%2B-red)](https://keras.io/)
+[![GitHub stars](https://img.shields.io/github/stars/PeretzNiro/Chest-X-Ray-Images-Classification?style=social)](https://github.com/PeretzNiro/Chest-X-Ray-Images-Classification/stargazers)
+[![Medical AI](https://img.shields.io/badge/Medical-AI-red?logo=healthcare)](https://github.com/PeretzNiro/Chest-X-Ray-Images-Classification)
+[![Deep Learning](https://img.shields.io/badge/Deep-Learning-orange?logo=tensorflow)](https://github.com/PeretzNiro/Chest-X-Ray-Images-Classification)
 
 ## Overview
 This project implements a convolutional neural network based on MobileNet architecture to detect pneumonia in chest X-ray images. It offers two training approaches: dataset balancing through oversampling and class-weight adjustment. The model achieves precision and recall metrics suitable for clinical decision support, demonstrating the potential of AI to assist healthcare professionals in pneumonia screening.
