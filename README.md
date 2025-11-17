@@ -5,7 +5,6 @@ AI-powered diagnostic tool using deep learning to automatically detect pneumonia
 [![Python](https://img.shields.io/badge/Python-3.6%2B-blue)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0%2B-orange)](https://www.tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-2.4%2B-red)](https://keras.io/)
-[![GitHub stars](https://img.shields.io/github/stars/PeretzNiro/Chest-X-Ray-Images-Classification?style=social)](https://github.com/PeretzNiro/Chest-X-Ray-Images-Classification/stargazers)
 [![Medical AI](https://img.shields.io/badge/Medical-AI-red?logo=healthcare)](https://github.com/PeretzNiro/Chest-X-Ray-Images-Classification)
 [![Deep Learning](https://img.shields.io/badge/Deep-Learning-orange?logo=tensorflow)](https://github.com/PeretzNiro/Chest-X-Ray-Images-Classification)
 
